@@ -45,6 +45,6 @@ PUT /api/v1/jobs/ : Update an existing job posting by ID (protected route). <br>
 DELETE /api/v1/jobs/ : Delete a job posting by ID (protected route).
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
-
+![User-Registration](https://github.com/user-attachments/assets/740df2eb-fe22-4664-ab8c-b69e60fc7eca)
 ## License
 This project is licensed under the MIT License.

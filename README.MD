@@ -43,8 +43,15 @@ GET /api/v1/jobs/: Retrieve a specific job posting by ID. <br>
 POST /api/v1/jobs: Create a new job posting (protected route). <br>
 PUT /api/v1/jobs/ : Update an existing job posting by ID (protected route). <br>
 DELETE /api/v1/jobs/ : Delete a job posting by ID (protected route).
+
+## API-Testing-Result
+- User Registration: ![User-Registration](https://github.com/user-attachments/assets/740df2eb-fe22-4664-ab8c-b69e60fc7eca)
+- User Login: ![Login](https://github.com/user-attachments/assets/4c448f33-cf28-494d-ab5b-b12764f196a4)
+- Creating a job: ![CreateJob](https://github.com/user-attachments/assets/011e5e9b-edc2-4f2e-97ed-b9eedf04542d)
+- Get all jobs: ![GetAllJobs](https://github.com/user-attachments/assets/84e2d964-16de-4a4c-b684-2f9c698dfa31)
+
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
-![User-Registration](https://github.com/user-attachments/assets/740df2eb-fe22-4664-ab8c-b69e60fc7eca)
+
 ## License
 This project is licensed under the MIT License.
